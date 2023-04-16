@@ -1,4 +1,4 @@
-This game it made by:
+This game is made by:
 Mason McLeod
 Amy Little
 Yufan Yu
