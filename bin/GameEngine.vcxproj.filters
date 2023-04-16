@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\file_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Collectable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal_Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal_Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_SubCollider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Temporary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\VectorMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\InstantiationManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particle_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\BackgroundPane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\file_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\geometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Collectable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal_Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Mortal_Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_Projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Collidable_SubCollider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\GameObject_Temporary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\VectorMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\InstantiationManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particle_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\BackgroundPane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\sprite_vertex_shader.glsl" />
+    <None Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\sprite_fragment_shader.glsl" />
+    <None Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particle_vertex_shader.glsl" />
+    <None Include="C:\Users\Chloe\OneDrive\Desktop\COMP2501\FinalProject\particle_fragment_shader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9065C6EF-D649-3280-BFA7-98FF7BA13C8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{254EF28B-5D31-3C1A-8B22-33765E161299}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
